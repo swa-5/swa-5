@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Swatantra Pandey
 
-<!--
-**swa-5/swa-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MCA Student | 🐍 Python Learner | 📊 Aspiring Data Analyst  
+🎯 Learning step-by-step to build a strong career in Data & Tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 MCA student with a background in Mathematics  
+- 🐍 Strong interest in Python & Data Analysis  
+- 📊 Learning tools like Pandas, NumPy, SQL, and Excel  
+- 🚀 Goal: Land my first Data Analyst job and grow in tech  
+
+---
+
+## 🛠️ Skills & Tools
+- 🐍 Python  
+- 📊 Data Analysis (Pandas, NumPy – learning)  
+- 🗄️ SQL (beginner)  
+- 📈 Excel (learning)  
+- 🌐 Git & GitHub  
+
+---
+
+## 📂 Projects
+🔹 **Python Practice Projects**  
+🔹 **Data Analysis Mini Projects** (coming soon 🚧)  
+🔹 **Learning Notes & Examples**
+
+👉 Check my repositories below 👇
+
+---
+
+## 🌱 Currently Learning
+- Data Cleaning & Analysis  
+- SQL for Data Analysts  
+- Real-world Data Projects  
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: https://github.com/swa-5  
+- 📧 Email: swatantrapandey2004@gmail.com  
+
+---
+
+⭐ *I believe consistency beats talent. One commit at a time!* ⭐
