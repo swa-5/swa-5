@@ -15,24 +15,24 @@
 
 ## 🛠️ Skills & Tools
 - 🐍 Python  
-- 📊 Data Analysis (Pandas, NumPy – learning)  
-- 🗄️ SQL (beginner)  
-- 📈 Excel (learning)  
+- 📊 Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🗄️ SQL  
+- 📈 Excel
 - 🌐 Git & GitHub  
 
 ---
 
 ## 📂 Projects
 🔹 **Python Practice Projects**  
-🔹 **Data Analysis Mini Projects** (coming soon 🚧)  
-🔹 **Learning Notes & Examples**
+🔹 **Data Analysis Mini Projects**  
+🔹 **Real World Data Analytics Project s**
 
 👉 Check my repositories below 👇
 
 ---
 
 ## 🌱 Currently Learning
-- Data Cleaning & Analysis  
+- Advanced Data Cleaning & Analysis  
 - SQL for Data Analysts  
 - Real-world Data Projects  
 
