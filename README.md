@@ -34,7 +34,8 @@
 ## 🌱 Currently Learning
 - Advanced Data Cleaning & Analysis  
 - SQL for Data Analysts  
-- Real-world Data Projects  
+- Real-world Data Projects
+- Power BI   
 
 ---
 
